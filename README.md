@@ -1,2 +1,3 @@
 # freecodecamp.org-code
-My code for http://freecodecamp.org/ 
+
+Repo of my code for challenges on [freecodecamp.org](http://freecodecamp.org/) 
