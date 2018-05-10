@@ -1,4 +1,4 @@
-//
+// https://www.freecodecamp.org/challenges/dna-pairing
 
 function pairElement(sequence) {
   var pairs = { T: 'A', A: 'T', G: 'C', C: 'G' };
